@@ -1,9 +1,9 @@
 # projeto-tvbox
-Repositório do Projeto de Extensão da UFSCar-Sorocaba sobre TVBox
+Esse é um fork do [**repositório do Projeto de Extensão da UFSCar-Sorocaba sobre TVBox**](https://github.com/lizier/projeto-tvbox), sendo recomendado lê-lo no lugar desse fork, por estar possívelmente desatualizado.
 
 
 ## Modelos recebidos
-* Tx9 - Tutorial de instalação ( [Versão 0](./tx9-fake-hotspot/README.md), [*Working in progress*](./tutorial/tutorial.md))
+* Tx9 - Tutorial de instalação ( [Versão 0](./tx9-fake-hotspot/README.md), [*Working in progress*](./tx9-instalacao-armbian-ssh)
 
 
 ## Contatos:
